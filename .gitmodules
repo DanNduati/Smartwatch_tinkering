@@ -1,0 +1,3 @@
+[submodule "huami-token"]
+	path = huami-token
+	url = https://codeberg.org/argrento/huami-token.git
