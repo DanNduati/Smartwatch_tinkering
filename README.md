@@ -31,7 +31,7 @@ Logged out.
 > ***Warning:***
 > Every time you hard reset the band/watch, the Bluetooth MAC Address will be changed and you must grab a new key! Also, anytime you unpair your band/watch from MiFit, the pairing key will be invalidated and you must make new pairing in MiFit app.
 
-### Features that work without authkey
+### <b>Features that work without authkey</b>
 - Sending Calls
 - Sending alerts
 - Sending Missed call notifications
@@ -39,10 +39,12 @@ Logged out.
 - Sending music title and music state(Playing/Paused)
 - Recieve music control events (Play/Pause/Forward/Backward/Volume Up/Volume Down/Enter Music app/ Exit Music app) through callbacks
 
-## Features that needs authkey
+## <b>Features that needs authkey</b>
 - Retrieving heart rate (Realtime and Single time)
 - Firmware update/restore (This feature has the potential to brick your Mi Band 4. Do it at your own risk)
 - Retrieving steps count, calories count and fat burnt
 - Setting date and time
 - Fetching fitness data within certain past intervals.
 
+## </b>Some more bluetooth fun</b>
+:wq
